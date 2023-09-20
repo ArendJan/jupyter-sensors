@@ -1,4 +1,3 @@
-import binascii
 import math
 # Lidar code adapted from https://github.com/henjin0/LIDAR_LD06_python_loder
 # MIT License
